@@ -8,7 +8,7 @@ Test the **Compose** functionality of Gmail by sending an email with:
 ## Deliverables
 | File | Description |
 |---|---|
-| `Incubyte_Gmail_Compose_TestCases.xlsx` | Test cases for the Gmail Compose feature, covering both **Traditional** and **BDD** styles, with **Positive** and **Negative** scenarios |
+| `Incubyte_Gmail_Compose_TestCases_Sajid.xlsx` | Test cases for the Gmail Compose feature, covering both **Traditional** and **BDD** styles, with **Positive** and **Negative** scenarios |
 
 ## Test Case Sheet Structure
 
